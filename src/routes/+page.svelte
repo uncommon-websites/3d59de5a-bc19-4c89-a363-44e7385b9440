@@ -19,10 +19,10 @@
 		</div>
 
 		<div class="mt-24 flex gap-4">
-			<a href="#services" class="inline-flex items-center justify-center px-6 py-3 bg-primary-500 hover:bg-primary-600 text-white rounded-full text-sm font-medium transition-colors duration-300">
+			<a href="#services" class="inline-flex items-center justify-center px-6 py-3 bg-primary-500 hover:bg-primary-600 text-white rounded-md text-sm font-medium transition-colors duration-300">
 				See our services
 			</a>
-			<a href="#contact" class="inline-flex items-center justify-center px-6 py-3 border border-white/30 rounded-full text-sm font-medium hover:bg-white hover:text-gray-950 transition-colors duration-300 backdrop-blur-sm">
+			<a href="#contact" class="inline-flex items-center justify-center px-6 py-3 border border-white/30 rounded-md text-sm font-medium hover:bg-white hover:text-gray-950 transition-colors duration-300 backdrop-blur-sm">
 				Get in touch
 			</a>
 		</div>
@@ -234,10 +234,10 @@
             <p class="text-gray-700 mb-8 max-w-md">Let's talk about your project. Get a same-day response and see how we can help transform your vision into reality.</p>
             
             <div class="flex flex-col sm:flex-row gap-4">
-                <a href="mailto:hello@taylorlabs.co" class="inline-flex items-center justify-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-lg text-sm font-medium transition-colors">
+                <a href="mailto:hello@taylorlabs.co" class="inline-flex items-center justify-center px-6 py-3 bg-primary-600 hover:bg-primary-700 text-white rounded-md text-sm font-medium transition-colors">
                     Email us
                 </a>
-                <a href="tel:+13602071844" class="inline-flex items-center justify-center px-6 py-3 bg-white border border-primary-300 hover:border-primary-400 text-gray-900 rounded-lg text-sm font-medium transition-colors">
+                <a href="tel:+13602071844" class="inline-flex items-center justify-center px-6 py-3 bg-white border border-primary-300 hover:border-primary-400 text-gray-900 rounded-md text-sm font-medium transition-colors">
                     Call or text
                 </a>
             </div>
