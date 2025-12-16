@@ -28,18 +28,6 @@
 		</div>
 	</section>
 
-	<!-- Value Proposition -->
-	<section class="bg-white px-6 md:px-12 lg:px-24 py-16 md:py-24">
-		<div class="max-w-4xl mx-auto text-center">
-			<p class="text-lg md:text-xl text-gray-600 mb-8">
-				Starting with Cal Poly startups and scaling through the $40B web services market
-			</p>
-			<p class="text-base text-gray-500 max-w-2xl mx-auto">
-				We help startup founders who need professional websites but lack technical resources or design expertise. From same-day mockups to fully functional products.
-			</p>
-		</div>
-	</section>
-
     <!-- Services Section -->
     <section class="bg-gray-50 px-6 md:px-12 lg:px-24 py-12 md:py-24" id="services">
         <div class="mb-16 md:mb-24">
