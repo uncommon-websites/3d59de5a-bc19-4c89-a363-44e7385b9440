@@ -83,7 +83,7 @@
                 <div class="lg:col-span-4 space-y-6">
                     <h3 class="font-serif text-3xl md:text-4xl text-gray-900">Same-Day Mockups</h3>
                     <p class="text-gray-600 text-lg leading-relaxed">
-                        Overcome design hesitation with rapid prototyping. We create same-day mockups that help you visualize your product and make confident decisions quickly.
+                        See your vision come to life before development begins. We create same-day mockups that help you visualize the final product and make confident decisions quickly.
                     </p>
                     <div class="flex flex-wrap gap-2 pt-2">
                         <span class="px-3 py-1 bg-primary-50 text-primary-700 rounded-full text-xs font-medium">Fast Turnaround</span>
@@ -219,9 +219,9 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
                     </svg>
                 </div>
-                <h3 class="text-lg font-semibold text-gray-900 mb-3">Founder Mindset</h3>
+                <h3 class="text-lg font-semibold text-gray-900 mb-3">Partnership Approach</h3>
                 <p class="text-gray-600 text-sm leading-relaxed">
-                    As a student founder, I understand the challenges you face. We're not just building websites—we're helping you build your business.
+                    We understand the challenges of building digital products. We're not just delivering code—we're partnering with you to create solutions that drive your business forward.
                 </p>
             </div>
         </div>
@@ -301,7 +301,7 @@
 
             <div class="flex flex-col md:flex-row justify-between text-xs text-gray-500 mt-12 gap-2">
                 <p>© 2024 Taylor Labs. All rights reserved.</p>
-                <p>Transforming startup ideas into digital products.</p>
+                <p>Modern websites and custom software solutions.</p>
             </div>
         </div>
     </footer>
