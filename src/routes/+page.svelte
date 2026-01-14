@@ -155,10 +155,10 @@
     <section class="relative bg-gradient-to-b from-gray-900 via-gray-800 to-gray-950 pt-32 pb-48 px-6 md:px-12 lg:px-24 overflow-hidden">
         <div class="max-w-4xl relative z-10">
             <h2 class="font-serif text-4xl md:text-5xl lg:text-6xl text-white leading-tight mb-8">
-                Built by a founder, for founders.
+                Technical expertise meets thoughtful design.
             </h2>
             <p class="text-xl md:text-2xl text-gray-300 leading-relaxed">
-                Taylor Labs was founded by Evan Taylor, a Computer Science student at Cal Poly with a passion for turning ideas into reality. Starting with Cal Poly startups and expanding through technical credibility and student referrals, we're building the future of digital products—one startup at a time.
+                Taylor Labs was founded by Evan Taylor, who studied Computer Science at Cal Poly with a passion for building exceptional digital experiences. We combine solid engineering fundamentals with modern design principles to create websites and software solutions that help businesses thrive.
             </p>
         </div>
     </section>
